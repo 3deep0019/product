@@ -54,7 +54,8 @@ a{
     height: 50vh;
 }
 .cover-image{
-    width: 12em;
+    width: 50px;
+    height: 50px;
 }
 .grid-wrapper{
     display: grid;
